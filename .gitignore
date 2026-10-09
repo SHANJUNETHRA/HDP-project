@@ -1,0 +1,21 @@
+# Terraform generated files
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Sensitive Terraform variables
+
+*.tfvars
+*.tfvars.json
+
+# Secrets
+
+.env
+.env.*
+
+# Windows
+
+Thumbs.db
